@@ -17,6 +17,7 @@ shadcn/ui is a collection of accessible, customizable React components built on 
 - [Theme & Design Tools](#theme--design-tools)
 - [Production Apps](#production-apps)
 - [Related Libraries](#related-libraries)
+- [Articles & Deep Dives](#articles--deep-dives)
 
 ---
 
@@ -72,6 +73,21 @@ Core dependencies used across shadcn/ui projects.
 - [Lucide Icons](https://github.com/lucide-icons/lucide) - 1600+ consistent SVG icons used throughout the shadcn/ui ecosystem. ★23k
 - [Recharts](https://github.com/recharts/recharts) - React + D3 chart library used in shadcn/ui chart components. ★27k
 - [TanStack Table](https://github.com/TanStack/table) - Headless table library used for data tables in shadcn/ui admin patterns. ★26k
+
+## Articles & Deep Dives
+
+Real-world write-ups on building production admin UIs with shadcn/ui.
+
+- [51 shadcn/ui Components in a Real Production Admin: What We Built](https://unfoldcms.com/blog/51-shadcnui-components-in-a-real-production-admin-what-we-built) - A breakdown of every shadcn/ui component used across 210+ admin pages in a production CMS.
+- [The CMS Built on shadcn/ui: Why It Matters](https://unfoldcms.com/blog/cms-built-on-shadcn-ui) - Why choosing shadcn/ui as the foundation for a CMS admin changes the developer experience.
+- [Why Your shadcn/ui Admin Template Should Be a Full CMS](https://unfoldcms.com/blog/shadcn-admin-template-vs-cms) - The gap between a dashboard template and a content management system, and how to bridge it.
+- [shadcn/ui in Production: 1 Year, 51 Components, 210 Admin Pages — Lessons](https://unfoldcms.com/blog/shadcnui-in-production-1-year-51-components-210-admin-pages-lessons) - Lessons from a year of running shadcn/ui in a real production admin.
+- [CMS Admin Redesign: How shadcn/ui Changed Developer Experience](https://unfoldcms.com/blog/cms-admin-redesign-shadcn-developer-experience) - Before/after of migrating a CMS admin to shadcn/ui.
+- [Tailwind v4 + shadcn/ui: Building a Themeable CMS](https://unfoldcms.com/blog/tailwind-v4-shadcn-themeable-cms) - How Tailwind CSS v4 design tokens work with shadcn/ui theming in a real product.
+- [shadcn/ui vs Ant Design vs Material UI: Which Admin Library Wins in 2026?](https://unfoldcms.com/blog/shadcn-vs-ant-design-vs-material-ui) - Honest comparison of the three leading React admin UI libraries.
+- [Laravel + React + shadcn/ui: The Modern CMS Stack](https://unfoldcms.com/blog/laravel-react-shadcn-cms-stack) - How to combine Laravel, React, Inertia.js, and shadcn/ui into a full-stack CMS.
+- [Build a Blog CMS with Next.js + shadcn/ui in 30 Minutes](https://unfoldcms.com/blog/nextjs-shadcn-cms-tutorial) - Step-by-step tutorial connecting Next.js to a shadcn/ui-powered CMS backend.
+- [shadcn CMS vs Payload: Honest Admin UX Comparison](https://unfoldcms.com/blog/shadcn-cms-vs-payload) - Side-by-side comparison of admin UX between a shadcn-native CMS and Payload.
 
 ---
 
