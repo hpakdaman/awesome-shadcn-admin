@@ -41,6 +41,7 @@ shadcn/ui is a collection of accessible, customizable React components built on 
 
 ## Component Extensions
 
+- [Payload Components](https://www.payload-components.xyz/) - MIT shadcn-compatible registry and CLI for installing wired Payload CMS blocks into Payload v3 and Next.js projects.
 - [shadcn-ui-expansions](https://github.com/hsuanyi-chou/shadcn-ui-expansions) - Extra shadcn/ui components: multiple selector, infinite scroll, datetime picker, floating label input. ★1.9k
 - [shadcnspace](https://github.com/shadcnspace/shadcnspace) - 100+ components, 51+ reusable UI blocks, and dashboard kits built with Radix UI and Tailwind. ★617
 - [Tremor](https://github.com/tremorlabs/tremor) - 35+ dashboard-focused React components built on Tailwind and Radix UI, copy-paste ready. ★3.5k
